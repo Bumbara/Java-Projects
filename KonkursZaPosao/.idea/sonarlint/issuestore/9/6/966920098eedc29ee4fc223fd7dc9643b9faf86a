@@ -1,0 +1,7 @@
+
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÖÌšƒå0
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ìžö—üÿÿÿÿ8×Ìšƒå0
+b
+java:S2095@"EUse try-with-resources or close this "Scanner" in a "finally" clause.(×©ñ†8¯Íšƒå0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(‹êøÓ8¾Íšƒå0
